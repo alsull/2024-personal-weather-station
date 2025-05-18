@@ -1,0 +1,502 @@
+Temperature (°F),Actual,Historic Avg.,Record,Polygon,Date
+Precipitation (in),Actual,Historic Avg.,Record,Polygon,
+Dew Point (°F),Actual,Historic Avg.,Record,Polygon,
+Wind (mph),Actual,Historic Avg.,Record,Polygon,
+Sea Level Pressure (in),Actual,Historic Avg.,Record,Polygon,
+Astronomy,Day Length,Rise,Set,Polygon,
+High Temp,48,41.1,63,,2024-01-01
+Low Temp,37,27.5,-6,,2024-01-01
+Day Average Temp,42.79,34.3,-,,2024-01-01
+Precipitation (past 24 hours from 05:51:00),0.00,5.70,-,,2024-01-01
+Dew Point,30.63,-,-,,2024-01-01
+High,35,-,-,,2024-01-01
+Low,25,-,-,,2024-01-01
+Average,30.63,-,-,,2024-01-01
+Max Wind Speed,14,-,-,,2024-01-01
+Visibility,10,-,-,,2024-01-01
+Sea Level Pressure,30.08,-,-,,2024-01-01
+Actual Time,9h 18m,7:21 AM,4:40 PM,,2024-01-01
+Civil Twilight,,6:51 AM,5:11 PM,,2024-01-01
+Nautical Twilight,,6:16 AM,5:45 PM,,2024-01-01
+Astronomical Twilight,,5:43 AM,6:18 PM,,2024-01-01
+Moon: waning gibbous,,10:14 PM,10:50 AM,,2024-01-01
+High Temp,45,40.9,63,,2024-01-02
+Low Temp,31,27.3,-2,,2024-01-02
+Day Average Temp,37.52,34.1,-,,2024-01-02
+Precipitation (past 24 hours from 05:51:00),0.00,5.70,-,,2024-01-02
+Dew Point,21.87,-,-,,2024-01-02
+High,24,-,-,,2024-01-02
+Low,19,-,-,,2024-01-02
+Average,21.87,-,-,,2024-01-02
+Max Wind Speed,14,-,-,,2024-01-02
+Visibility,10,-,-,,2024-01-02
+Sea Level Pressure,30.13,-,-,,2024-01-02
+Actual Time,9h 19m,7:21 AM,4:41 PM,,2024-01-02
+Civil Twilight,,6:51 AM,5:12 PM,,2024-01-02
+Nautical Twilight,,6:16 AM,5:46 PM,,2024-01-02
+Astronomical Twilight,,5:43 AM,6:19 PM,,2024-01-02
+Moon: waning gibbous,,11:14 PM,11:09 AM,,2024-01-02
+High Temp,45,40.7,65,,2024-01-03
+Low Temp,33,27.1,1,,2024-01-03
+Day Average Temp,38.91,33.9,-,,2024-01-03
+Precipitation (past 24 hours from 05:51:00),0.00,5.70,-,,2024-01-03
+Dew Point,25.57,-,-,,2024-01-03
+High,26,-,-,,2024-01-03
+Low,25,-,-,,2024-01-03
+Average,25.57,-,-,,2024-01-03
+Max Wind Speed,14,-,-,,2024-01-03
+Visibility,10,-,-,,2024-01-03
+Sea Level Pressure,30.05,-,-,,2024-01-03
+Actual Time,9h 20m,7:22 AM,4:42 PM,,2024-01-03
+Civil Twilight,,6:51 AM,5:12 PM,,2024-01-03
+Nautical Twilight,,6:16 AM,5:47 PM,,2024-01-03
+Astronomical Twilight,,5:43 AM,6:20 PM,,2024-01-03
+Moon: waning gibbous,,-,11:28 AM,,2024-01-03
+High Temp,47,40.6,68,,2024-01-04
+Low Temp,30,26.9,-2,,2024-01-04
+Day Average Temp,39.22,33.7,-,,2024-01-04
+Precipitation (past 24 hours from 05:51:00),0.00,5.70,-,,2024-01-04
+Dew Point,22.78,-,-,,2024-01-04
+High,29,-,-,,2024-01-04
+Low,13,-,-,,2024-01-04
+Average,22.78,-,-,,2024-01-04
+Max Wind Speed,26,-,-,,2024-01-04
+Visibility,10,-,-,,2024-01-04
+Sea Level Pressure,30.19,-,-,,2024-01-04
+Actual Time,9h 20m,7:22 AM,4:43 PM,,2024-01-04
+Civil Twilight,,6:51 AM,5:13 PM,,2024-01-04
+Nautical Twilight,,6:17 AM,5:47 PM,,2024-01-04
+Astronomical Twilight,,5:43 AM,6:21 PM,,2024-01-04
+Moon: waning half last qtr,,12:14 AM,11:48 AM,,2024-01-04
+High Temp,40,40.5,66,,2024-01-05
+Low Temp,26,26.7,-9,,2024-01-05
+Day Average Temp,32.67,33.6,-,,2024-01-05
+Precipitation (past 24 hours from 05:51:00),0.00,5.70,-,,2024-01-05
+Dew Point,15.29,-,-,,2024-01-05
+High,19,-,-,,2024-01-05
+Low,13,-,-,,2024-01-05
+Average,15.29,-,-,,2024-01-05
+Max Wind Speed,16,-,-,,2024-01-05
+Visibility,10,-,-,,2024-01-05
+Sea Level Pressure,30.33,-,-,,2024-01-05
+Actual Time,9h 21m,7:22 AM,4:43 PM,,2024-01-05
+Civil Twilight,,6:51 AM,5:14 PM,,2024-01-05
+Nautical Twilight,,6:17 AM,5:48 PM,,2024-01-05
+Astronomical Twilight,,5:43 AM,6:21 PM,,2024-01-05
+Moon: waning crescent,,1:16 AM,12:09 PM,,2024-01-05
+High Temp,39,40.3,72,,2024-01-06
+Low Temp,27,26.5,-9,,2024-01-06
+Day Average Temp,34,33.4,-,,2024-01-06
+Precipitation (past 24 hours from 05:51:00),0.00,5.70,-,,2024-01-06
+Dew Point,26.65,-,-,,2024-01-06
+High,35,-,-,,2024-01-06
+Low,19,-,-,,2024-01-06
+Average,26.65,-,-,,2024-01-06
+Max Wind Speed,18,-,-,,2024-01-06
+Visibility,10,-,-,,2024-01-06
+Sea Level Pressure,30.21,-,-,,2024-01-06
+Actual Time,9h 22m,7:21 AM,4:44 PM,,2024-01-06
+Civil Twilight,,6:51 AM,5:15 PM,,2024-01-06
+Nautical Twilight,,6:17 AM,5:49 PM,,2024-01-06
+Astronomical Twilight,,5:44 AM,6:22 PM,,2024-01-06
+Moon: waning crescent,,2:21 AM,12:34 PM,,2024-01-06
+High Temp,40,40.2,64,,2024-01-07
+Low Temp,36,26.3,3,,2024-01-07
+Day Average Temp,37.52,33.3,-,,2024-01-07
+Precipitation (past 24 hours from 11:51:00),0.51,5.70,-,,2024-01-07
+Dew Point,32.79,-,-,,2024-01-07
+High,35,-,-,,2024-01-07
+Low,26,-,-,,2024-01-07
+Average,32.79,-,-,,2024-01-07
+Max Wind Speed,18,-,-,,2024-01-07
+Visibility,10,-,-,,2024-01-07
+Sea Level Pressure,29.95,-,-,,2024-01-07
+Actual Time,9h 23m,7:21 AM,4:45 PM,,2024-01-07
+Civil Twilight,,6:51 AM,5:16 PM,,2024-01-07
+Nautical Twilight,,6:17 AM,5:50 PM,,2024-01-07
+Astronomical Twilight,,5:44 AM,6:23 PM,,2024-01-07
+Moon: waning crescent,,3:30 AM,1:05 PM,,2024-01-07
+High Temp,48,40.1,70,,2024-01-08
+Low Temp,36,26.2,3,,2024-01-08
+Day Average Temp,40.7,33.1,-,,2024-01-08
+Precipitation (past 24 hours from 11:51:00),0.12,5.70,-,,2024-01-08
+Dew Point,24.74,-,-,,2024-01-08
+High,27,-,-,,2024-01-08
+Low,24,-,-,,2024-01-08
+Average,24.74,-,-,,2024-01-08
+Max Wind Speed,18,-,-,,2024-01-08
+Visibility,10,-,-,,2024-01-08
+Sea Level Pressure,30.43,-,-,,2024-01-08
+Actual Time,9h 24m,7:21 AM,4:46 PM,,2024-01-08
+Civil Twilight,,6:51 AM,5:17 PM,,2024-01-08
+Nautical Twilight,,6:17 AM,5:51 PM,,2024-01-08
+Astronomical Twilight,,5:44 AM,6:24 PM,,2024-01-08
+Moon: waning crescent,,4:40 AM,1:45 PM,,2024-01-08
+High Temp,58,40,66,,2024-01-09
+Low Temp,31,26,1,,2024-01-09
+Day Average Temp,43,33,-,,2024-01-09
+Precipitation (past 24 hours from 05:51:00),0.00,5.70,-,,2024-01-09
+Dew Point,37.64,-,-,,2024-01-09
+High,55,-,-,,2024-01-09
+Low,26,-,-,,2024-01-09
+Average,37.64,-,-,,2024-01-09
+Max Wind Speed,26,-,-,,2024-01-09
+Visibility,10,-,-,,2024-01-09
+Sea Level Pressure,30.42,-,-,,2024-01-09
+Actual Time,9h 26m,7:21 AM,4:47 PM,,2024-01-09
+Civil Twilight,,6:51 AM,5:18 PM,,2024-01-09
+Nautical Twilight,,6:17 AM,5:52 PM,,2024-01-09
+Astronomical Twilight,,5:44 AM,6:25 PM,,2024-01-09
+Moon: waning crescent,,5:51 AM,2:36 PM,,2024-01-09
+High Temp,58,39.9,64,,2024-01-10
+Low Temp,46,25.8,--,,2024-01-10
+Day Average Temp,51.48,32.9,-,,2024-01-10
+Precipitation (past 24 hours from 11:51:00),2.22,5.70,-,,2024-01-10
+Dew Point,38.3,-,-,,2024-01-10
+High,55,-,-,,2024-01-10
+Low,27,-,-,,2024-01-10
+Average,38.3,-,-,,2024-01-10
+Max Wind Speed,31,-,-,,2024-01-10
+Visibility,10,-,-,,2024-01-10
+Sea Level Pressure,29.65,-,-,,2024-01-10
+Actual Time,9h 27m,7:21 AM,4:48 PM,,2024-01-10
+Civil Twilight,,6:51 AM,5:19 PM,,2024-01-10
+Nautical Twilight,,6:16 AM,5:53 PM,,2024-01-10
+Astronomical Twilight,,5:43 AM,6:26 PM,,2024-01-10
+Moon: waning crescent,,6:57 AM,3:40 PM,,2024-01-10
+High Temp,48,39.9,70,,2024-01-11
+Low Temp,42,25.7,-2,,2024-01-11
+Day Average Temp,44.65,32.8,-,,2024-01-11
+Precipitation (past 24 hours from 05:51:00),0.00,5.60,-,,2024-01-11
+Dew Point,27.26,-,-,,2024-01-11
+High,30,-,-,,2024-01-11
+Low,25,-,-,,2024-01-11
+Average,27.26,-,-,,2024-01-11
+Max Wind Speed,16,-,-,,2024-01-11
+Visibility,10,-,-,,2024-01-11
+Sea Level Pressure,29.97,-,-,,2024-01-11
+Actual Time,9h 28m,7:21 AM,4:49 PM,,2024-01-11
+Civil Twilight,,6:50 AM,5:20 PM,,2024-01-11
+Nautical Twilight,,6:16 AM,5:54 PM,,2024-01-11
+Astronomical Twilight,,5:43 AM,6:27 PM,,2024-01-11
+Moon: new moon,,7:54 AM,4:54 PM,,2024-01-11
+High Temp,50,39.8,70,,2024-01-12
+Low Temp,35,25.6,-1,,2024-01-12
+Day Average Temp,44.04,32.7,-,,2024-01-12
+Precipitation (past 24 hours from 05:51:00),0.00,5.60,-,,2024-01-12
+Dew Point,31.7,-,-,,2024-01-12
+High,41,-,-,,2024-01-12
+Low,27,-,-,,2024-01-12
+Average,31.7,-,-,,2024-01-12
+Max Wind Speed,15,-,-,,2024-01-12
+Visibility,10,-,-,,2024-01-12
+Sea Level Pressure,30.2,-,-,,2024-01-12
+Actual Time,9h 29m,7:20 AM,4:50 PM,,2024-01-12
+Civil Twilight,,6:50 AM,5:21 PM,,2024-01-12
+Nautical Twilight,,6:16 AM,5:55 PM,,2024-01-12
+Astronomical Twilight,,5:43 AM,6:27 PM,,2024-01-12
+Moon: waxing crescent,,8:39 AM,6:14 PM,,2024-01-12
+High Temp,61,39.7,70,,2024-01-13
+Low Temp,37,25.4,-6,,2024-01-13
+Day Average Temp,51.03,32.6,-,,2024-01-13
+Precipitation (past 24 hours from 05:16:00),0.00,5.60,-,,2024-01-13
+Dew Point,40.62,-,-,,2024-01-13
+High,57,-,-,,2024-01-13
+Low,17,-,-,,2024-01-13
+Average,40.62,-,-,,2024-01-13
+Max Wind Speed,30,-,-,,2024-01-13
+Visibility,10,-,-,,2024-01-13
+Sea Level Pressure,29.7,-,-,,2024-01-13
+Actual Time,9h 31m,7:20 AM,4:51 PM,,2024-01-13
+Civil Twilight,,6:50 AM,5:22 PM,,2024-01-13
+Nautical Twilight,,6:16 AM,5:56 PM,,2024-01-13
+Astronomical Twilight,,5:43 AM,6:28 PM,,2024-01-13
+Moon: waxing crescent,,9:16 AM,7:35 PM,,2024-01-13
+High Temp,44,39.7,70,,2024-01-14
+Low Temp,28,25.3,-6,,2024-01-14
+Day Average Temp,35.77,32.5,-,,2024-01-14
+Precipitation (past 24 hours from 11:51:00),0.02,5.60,-,,2024-01-14
+Dew Point,17.43,-,-,,2024-01-14
+High,29,-,-,,2024-01-14
+Low,3,-,-,,2024-01-14
+Average,17.43,-,-,,2024-01-14
+Max Wind Speed,32,-,-,,2024-01-14
+Visibility,10,-,-,,2024-01-14
+Sea Level Pressure,30.13,-,-,,2024-01-14
+Actual Time,9h 32m,7:20 AM,4:52 PM,,2024-01-14
+Civil Twilight,,6:50 AM,5:23 PM,,2024-01-14
+Nautical Twilight,,6:16 AM,5:56 PM,,2024-01-14
+Astronomical Twilight,,5:43 AM,6:29 PM,,2024-01-14
+Moon: waxing crescent,,9:46 AM,8:53 PM,,2024-01-14
+High Temp,30,39.6,66,,2024-01-15
+Low Temp,24,25.2,--,,2024-01-15
+Day Average Temp,26.96,32.4,-,,2024-01-15
+Precipitation (past 24 hours from 05:51:00),0.00,5.60,-,,2024-01-15
+Dew Point,8.28,-,-,,2024-01-15
+High,20,-,-,,2024-01-15
+Low,2,-,-,,2024-01-15
+Average,8.28,-,-,,2024-01-15
+Max Wind Speed,12,-,-,,2024-01-15
+Visibility,10,-,-,,2024-01-15
+Sea Level Pressure,30.27,-,-,,2024-01-15
+Actual Time,9h 34m,7:19 AM,4:54 PM,,2024-01-15
+Civil Twilight,,6:49 AM,5:24 PM,,2024-01-15
+Nautical Twilight,,6:16 AM,5:57 PM,,2024-01-15
+Astronomical Twilight,,5:43 AM,6:30 PM,,2024-01-15
+Moon: waxing crescent,,10:11 AM,10:08 PM,,2024-01-15
+High Temp,31,39.6,58,,2024-01-16
+Low Temp,23,25.1,--,,2024-01-16
+Day Average Temp,27.51,32.4,-,,2024-01-16
+Precipitation (past 24 hours from 11:51:00),0.10,5.60,-,,2024-01-16
+Dew Point,22.69,-,-,,2024-01-16
+High,28,-,-,,2024-01-16
+Low,10,-,-,,2024-01-16
+Average,22.69,-,-,,2024-01-16
+Max Wind Speed,20,-,-,,2024-01-16
+Visibility,10,-,-,,2024-01-16
+Sea Level Pressure,30.11,-,-,,2024-01-16
+Actual Time,9h 35m,7:19 AM,4:55 PM,,2024-01-16
+Civil Twilight,,6:49 AM,5:25 PM,,2024-01-16
+Nautical Twilight,,6:15 AM,5:58 PM,,2024-01-16
+Astronomical Twilight,,5:42 AM,6:31 PM,,2024-01-16
+Moon: waxing crescent,,10:35 AM,11:21 PM,,2024-01-16
+High Temp,25,39.6,62,,2024-01-17
+Low Temp,17,25,-7,,2024-01-17
+Day Average Temp,21.38,32.3,-,,2024-01-17
+Precipitation (past 24 hours from 11:51:00),0.17,5.60,-,,2024-01-17
+Dew Point,4.67,-,-,,2024-01-17
+High,10,-,-,,2024-01-17
+Low,1,-,-,,2024-01-17
+Average,4.67,-,-,,2024-01-17
+Max Wind Speed,15,-,-,,2024-01-17
+Visibility,10,-,-,,2024-01-17
+Sea Level Pressure,30.12,-,-,,2024-01-17
+Actual Time,9h 37m,7:19 AM,4:56 PM,,2024-01-17
+Civil Twilight,,6:49 AM,5:26 PM,,2024-01-17
+Nautical Twilight,,6:15 AM,5:59 PM,,2024-01-17
+Astronomical Twilight,,5:42 AM,6:32 PM,,2024-01-17
+Moon: waxing crescent,,10:59 AM,-,,2024-01-17
+High Temp,34,39.6,66,,2024-01-18
+Low Temp,17,24.9,-7,,2024-01-18
+Day Average Temp,27.28,32.3,-,,2024-01-18
+Precipitation (past 24 hours from 05:51:00),0.00,5.60,-,,2024-01-18
+Dew Point,10.08,-,-,,2024-01-18
+High,17,-,-,,2024-01-18
+Low,3,-,-,,2024-01-18
+Average,10.08,-,-,,2024-01-18
+Max Wind Speed,12,-,-,,2024-01-18
+Visibility,10,-,-,,2024-01-18
+Sea Level Pressure,30.2,-,-,,2024-01-18
+Actual Time,9h 38m,7:18 AM,4:57 PM,,2024-01-18
+Civil Twilight,,6:48 AM,5:27 PM,,2024-01-18
+Nautical Twilight,,6:15 AM,6:01 PM,,2024-01-18
+Astronomical Twilight,,5:42 AM,6:33 PM,,2024-01-18
+Moon: waxing gibbous,,11:24 AM,12:33 AM,,2024-01-18
+High Temp,32,39.6,64,,2024-01-19
+Low Temp,27,24.9,-6,,2024-01-19
+Day Average Temp,29.69,32.2,-,,2024-01-19
+Precipitation (past 24 hours from 05:51:00),0.00,5.60,-,,2024-01-19
+Dew Point,21.22,-,-,,2024-01-19
+High,25,-,-,,2024-01-19
+Low,15,-,-,,2024-01-19
+Average,21.22,-,-,,2024-01-19
+Max Wind Speed,16,-,-,,2024-01-19
+Visibility,10,-,-,,2024-01-19
+Sea Level Pressure,29.97,-,-,,2024-01-19
+Actual Time,9h 40m,7:18 AM,4:58 PM,,2024-01-19
+Civil Twilight,,6:48 AM,5:28 PM,,2024-01-19
+Nautical Twilight,,6:14 AM,6:02 PM,,2024-01-19
+Astronomical Twilight,,5:41 AM,6:34 PM,,2024-01-19
+Moon: waxing gibbous,,11:53 AM,1:45 AM,,2024-01-19
+High Temp,26,39.6,62,,2024-01-20
+Low Temp,18,24.8,-3,,2024-01-20
+Day Average Temp,21.87,32.2,-,,2024-01-20
+Precipitation (past 24 hours from 11:51:00),0.01,5.60,-,,2024-01-20
+Dew Point,6.35,-,-,,2024-01-20
+High,9,-,-,,2024-01-20
+Low,5,-,-,,2024-01-20
+Average,6.35,-,-,,2024-01-20
+Max Wind Speed,15,-,-,,2024-01-20
+Visibility,10,-,-,,2024-01-20
+Sea Level Pressure,30.09,-,-,,2024-01-20
+Actual Time,9h 42m,7:17 AM,4:59 PM,,2024-01-20
+Civil Twilight,,6:47 AM,5:29 PM,,2024-01-20
+Nautical Twilight,,6:14 AM,6:03 PM,,2024-01-20
+Astronomical Twilight,,5:41 AM,6:35 PM,,2024-01-20
+Moon: waxing gibbous,,12:26 PM,2:56 AM,,2024-01-20
+High Temp,33,39.6,63,,2024-01-21
+Low Temp,21,24.8,-8,,2024-01-21
+Day Average Temp,26.46,32.2,-,,2024-01-21
+Precipitation (past 24 hours from 05:51:00),0.00,5.60,-,,2024-01-21
+Dew Point,8.25,-,-,,2024-01-21
+High,11,-,-,,2024-01-21
+Low,5,-,-,,2024-01-21
+Average,8.25,-,-,,2024-01-21
+Max Wind Speed,22,-,-,,2024-01-21
+Visibility,10,-,-,,2024-01-21
+Sea Level Pressure,30.5,-,-,,2024-01-21
+Actual Time,9h 43m,7:16 AM,5:00 PM,,2024-01-21
+Civil Twilight,,6:47 AM,5:30 PM,,2024-01-21
+Nautical Twilight,,6:13 AM,6:04 PM,,2024-01-21
+Astronomical Twilight,,5:41 AM,6:36 PM,,2024-01-21
+Moon: waxing gibbous,,1:06 PM,4:06 AM,,2024-01-21
+High Temp,38,39.6,62,,2024-01-22
+Low Temp,22,24.7,-1,,2024-01-22
+Day Average Temp,30.78,32.2,-,,2024-01-22
+Precipitation (past 24 hours from 05:51:00),0.00,5.60,-,,2024-01-22
+Dew Point,14.3,-,-,,2024-01-22
+High,19,-,-,,2024-01-22
+Low,11,-,-,,2024-01-22
+Average,14.3,-,-,,2024-01-22
+Max Wind Speed,16,-,-,,2024-01-22
+Visibility,10,-,-,,2024-01-22
+Sea Level Pressure,30.56,-,-,,2024-01-22
+Actual Time,9h 45m,7:16 AM,5:02 PM,,2024-01-22
+Civil Twilight,,6:46 AM,5:31 PM,,2024-01-22
+Nautical Twilight,,6:13 AM,6:05 PM,,2024-01-22
+Astronomical Twilight,,5:40 AM,6:37 PM,,2024-01-22
+Moon: waxing gibbous,,1:55 PM,5:11 AM,,2024-01-22
+High Temp,41,39.7,66,,2024-01-23
+Low Temp,33,24.7,-4,,2024-01-23
+Day Average Temp,37.57,32.2,-,,2024-01-23
+Precipitation (past 24 hours from 05:51:00),0.00,5.60,-,,2024-01-23
+Dew Point,26.39,-,-,,2024-01-23
+High,33,-,-,,2024-01-23
+Low,19,-,-,,2024-01-23
+Average,26.39,-,-,,2024-01-23
+Max Wind Speed,15,-,-,,2024-01-23
+Visibility,10,-,-,,2024-01-23
+Sea Level Pressure,30.53,-,-,,2024-01-23
+Actual Time,9h 47m,7:15 AM,5:03 PM,,2024-01-23
+Civil Twilight,,6:46 AM,5:32 PM,,2024-01-23
+Nautical Twilight,,6:12 AM,6:06 PM,,2024-01-23
+Astronomical Twilight,,5:40 AM,6:38 PM,,2024-01-23
+Moon: waxing gibbous,,2:51 PM,6:07 AM,,2024-01-23
+High Temp,46,39.7,68,,2024-01-24
+Low Temp,39,24.7,--,,2024-01-24
+Day Average Temp,43.55,32.2,-,,2024-01-24
+Precipitation (past 24 hours from 11:51:00),0.01,5.50,-,,2024-01-24
+Dew Point,39.38,-,-,,2024-01-24
+High,44,-,-,,2024-01-24
+Low,31,-,-,,2024-01-24
+Average,39.38,-,-,,2024-01-24
+Max Wind Speed,6,-,-,,2024-01-24
+Visibility,10,-,-,,2024-01-24
+Sea Level Pressure,30.53,-,-,,2024-01-24
+Actual Time,9h 49m,7:15 AM,5:04 PM,,2024-01-24
+Civil Twilight,,6:45 AM,5:34 PM,,2024-01-24
+Nautical Twilight,,6:12 AM,6:07 PM,,2024-01-24
+Astronomical Twilight,,5:39 AM,6:39 PM,,2024-01-24
+Moon: waxing gibbous,,3:53 PM,6:55 AM,,2024-01-24
+High Temp,59,39.8,59,,2024-01-25
+Low Temp,45,24.7,-1,,2024-01-25
+Day Average Temp,52.33,32.2,-,,2024-01-25
+Precipitation (past 24 hours from 11:51:00),0.18,5.50,-,,2024-01-25
+Dew Point,49.15,-,-,,2024-01-25
+High,54,-,-,,2024-01-25
+Low,43,-,-,,2024-01-25
+Average,49.15,-,-,,2024-01-25
+Max Wind Speed,10,-,-,,2024-01-25
+Visibility,10,-,-,,2024-01-25
+Sea Level Pressure,30.19,-,-,,2024-01-25
+Actual Time,9h 51m,7:14 AM,5:05 PM,,2024-01-25
+Civil Twilight,,6:44 AM,5:35 PM,,2024-01-25
+Nautical Twilight,,6:11 AM,6:08 PM,,2024-01-25
+Astronomical Twilight,,5:39 AM,6:40 PM,,2024-01-25
+Moon: full moon,,4:57 PM,7:34 AM,,2024-01-25
+High Temp,47,39.9,74,,2024-01-26
+Low Temp,43,24.7,--,,2024-01-26
+Day Average Temp,44.75,32.3,-,,2024-01-26
+Precipitation (past 24 hours from 11:51:00),0.27,5.50,-,,2024-01-26
+Dew Point,42.68,-,-,,2024-01-26
+High,44,-,-,,2024-01-26
+Low,41,-,-,,2024-01-26
+Average,42.68,-,-,,2024-01-26
+Max Wind Speed,12,-,-,,2024-01-26
+Visibility,10,-,-,,2024-01-26
+Sea Level Pressure,30.15,-,-,,2024-01-26
+Actual Time,9h 53m,7:13 AM,5:06 PM,,2024-01-26
+Civil Twilight,,6:44 AM,5:36 PM,,2024-01-26
+Nautical Twilight,,6:11 AM,6:09 PM,,2024-01-26
+Astronomical Twilight,,5:38 AM,6:41 PM,,2024-01-26
+Moon: waning gibbous,,6:01 PM,8:05 AM,,2024-01-26
+High Temp,48,39.9,69,,2024-01-27
+Low Temp,43,24.7,-2,,2024-01-27
+Day Average Temp,45.35,32.3,-,,2024-01-27
+Precipitation (past 24 hours from 11:51:00),0.05,5.50,-,,2024-01-27
+Dew Point,39.84,-,-,,2024-01-27
+High,44,-,-,,2024-01-27
+Low,36,-,-,,2024-01-27
+Average,39.84,-,-,,2024-01-27
+Max Wind Speed,12,-,-,,2024-01-27
+Visibility,10,-,-,,2024-01-27
+Sea Level Pressure,30.22,-,-,,2024-01-27
+Actual Time,9h 55m,7:12 AM,5:08 PM,,2024-01-27
+Civil Twilight,,6:43 AM,5:37 PM,,2024-01-27
+Nautical Twilight,,6:10 AM,6:10 PM,,2024-01-27
+Astronomical Twilight,,5:38 AM,6:42 PM,,2024-01-27
+Moon: waning gibbous,,7:04 PM,8:31 AM,,2024-01-27
+High Temp,45,40,64,,2024-01-28
+Low Temp,38,24.8,-4,,2024-01-28
+Day Average Temp,40.53,32.4,-,,2024-01-28
+Precipitation (past 24 hours from 11:51:00),0.49,5.50,-,,2024-01-28
+Dew Point,37.03,-,-,,2024-01-28
+High,38,-,-,,2024-01-28
+Low,35,-,-,,2024-01-28
+Average,37.03,-,-,,2024-01-28
+Max Wind Speed,21,-,-,,2024-01-28
+Visibility,10,-,-,,2024-01-28
+Sea Level Pressure,30.12,-,-,,2024-01-28
+Actual Time,9h 57m,7:12 AM,5:09 PM,,2024-01-28
+Civil Twilight,,6:42 AM,5:38 PM,,2024-01-28
+Nautical Twilight,,6:09 AM,6:11 PM,,2024-01-28
+Astronomical Twilight,,5:37 AM,6:44 PM,,2024-01-28
+Moon: waning gibbous,,8:05 PM,8:53 AM,,2024-01-28
+High Temp,42,40.1,70,,2024-01-29
+Low Temp,37,24.8,-6,,2024-01-29
+Day Average Temp,39.13,32.5,-,,2024-01-29
+Precipitation (past 24 hours from 11:51:00),0.46,5.50,-,,2024-01-29
+Dew Point,31.48,-,-,,2024-01-29
+High,36,-,-,,2024-01-29
+Low,26,-,-,,2024-01-29
+Average,31.48,-,-,,2024-01-29
+Max Wind Speed,21,-,-,,2024-01-29
+Visibility,10,-,-,,2024-01-29
+Sea Level Pressure,30.09,-,-,,2024-01-29
+Actual Time,9h 59m,7:11 AM,5:10 PM,,2024-01-29
+Civil Twilight,,6:41 AM,5:39 PM,,2024-01-29
+Nautical Twilight,,6:09 AM,6:12 PM,,2024-01-29
+Astronomical Twilight,,5:36 AM,6:45 PM,,2024-01-29
+Moon: waning gibbous,,9:05 PM,9:13 AM,,2024-01-29
+High Temp,39,40.2,66,,2024-01-30
+Low Temp,35,24.9,3,,2024-01-30
+Day Average Temp,37.33,32.5,-,,2024-01-30
+Precipitation (past 24 hours from 05:51:00),0.00,5.50,-,,2024-01-30
+Dew Point,26.21,-,-,,2024-01-30
+High,32,-,-,,2024-01-30
+Low,23,-,-,,2024-01-30
+Average,26.21,-,-,,2024-01-30
+Max Wind Speed,13,-,-,,2024-01-30
+Visibility,10,-,-,,2024-01-30
+Sea Level Pressure,30.21,-,-,,2024-01-30
+Actual Time,10h 1m,7:10 AM,5:11 PM,,2024-01-30
+Civil Twilight,,6:41 AM,5:41 PM,,2024-01-30
+Nautical Twilight,,6:08 AM,6:13 PM,,2024-01-30
+Astronomical Twilight,,5:36 AM,6:46 PM,,2024-01-30
+Moon: waning gibbous,,10:04 PM,9:32 AM,,2024-01-30
+High Temp,41,40.3,64,,2024-01-31
+Low Temp,36,24.9,-2,,2024-01-31
+Day Average Temp,37.89,32.6,-,,2024-01-31
+Precipitation (past 24 hours from 11:51:00),0.01,5.50,-,,2024-01-31
+Dew Point,30.96,-,-,,2024-01-31
+High,32,-,-,,2024-01-31
+Low,29,-,-,,2024-01-31
+Average,30.96,-,-,,2024-01-31
+Max Wind Speed,7,-,-,,2024-01-31
+Visibility,10,-,-,,2024-01-31
+Sea Level Pressure,30.15,-,-,,2024-01-31
+Actual Time,10h 3m,7:09 AM,5:13 PM,,2024-01-31
+Civil Twilight,,6:40 AM,5:42 PM,,2024-01-31
+Nautical Twilight,,6:07 AM,6:15 PM,,2024-01-31
+Astronomical Twilight,,5:35 AM,6:47 PM,,2024-01-31
+Moon: waning gibbous,,11:04 PM,9:51 AM,,2024-01-31
